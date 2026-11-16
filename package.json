@@ -1,0 +1,29 @@
+{
+  "name": "node-core-easy-kit-demo",
+  "version": "1.0.0",
+  "description": "A practical Node.js CLI application demonstrating the real-world usage of the node-core-easy-kit npm package.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test",
+    "demo": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "node-core-easy-kit",
+    "demo",
+    "showcase",
+    "educational",
+    "es-modules"
+  ],
+  "author": "Sanchit Baviskar",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "node-core-easy-kit": "^1.0.1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appName": "Node Core Easy Kit Demo",
+  "version": "1.0.0",
+  "environment": "development",
+  "author": "Sanchit Baviskar",
+  "settings": {
+    "theme": "dark",
+    "logLevel": "info",
+    "enableAnimations": true,
+    "maxRecentFiles": 10
+  },
+  "modules": [
+    "FileManager",
+    "SystemInfo",
+    "Security",
+    "JsonManager",
+    "About"
+  ],
+  "metadata": {
+    "tags": ["nodejs", "cli", "zero-dependencies", "demo"],
+    "created": "2026-11-16T18:55:00Z"
+  }
+}
