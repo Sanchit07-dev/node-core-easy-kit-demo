@@ -3,7 +3,7 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![NPM Package](https://img.shields.io/badge/npm-node--core--easy--kit-red.svg)](https://www.npmjs.com/package/node-core-easy-kit)
-[![Tests Passing](https://img.shields.io/badge/tests-28%20passed-success.svg)](file:///Users/sanchitbaviskar07@gmail.com%20/demo1/tests/integration.test.js)
+[![Tests Passing](https://img.shields.io/badge/tests-28%20passed-success.svg)](tests/integration.test.js)
 
 A production-grade, interactive terminal CLI application developed in modern Node.js (ES Modules) that demonstrates the real-world usage and practical integration of the published npm package **[`node-core-easy-kit`](https://www.npmjs.com/package/node-core-easy-kit)**.
 
